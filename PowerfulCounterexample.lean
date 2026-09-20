@@ -1,5 +1,4 @@
 
-Enter file contents here
 import Mathlib
 
 /-- A natural number is powerful if the square of every prime divisor divides it. -/
